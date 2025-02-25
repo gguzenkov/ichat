@@ -1,0 +1,5 @@
+# Игнорируем папку с загруженными файлами
+backend/uploads/
+# Игнорируем папку с загруженными файлами
+backend/uploads/*
+!backend/uploads/.gitkeep
